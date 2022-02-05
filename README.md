@@ -10,7 +10,7 @@ As an extension to the project, I ran a sentiment analysis test on tweets scrape
 
 'tweet_ranges.csv'
 
-## Notes about the dependencies:
+## A note about the dependencies:
 
 ### Simulation
 
