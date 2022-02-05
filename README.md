@@ -1,4 +1,4 @@
-# cruX_inductions
+# Python Simulation for Effective Covid-19 Strategy
 
 This is an agent based simulation of virus spread across a population. The effects of different measures to stop the spread, like masks, lockdowns, and vaccines are also simulated. As an extension to the project, I ran a sentiment analysis test on tweets scraped from Twitter to gauge the sentiment of the general public towards wearing masks.
 
