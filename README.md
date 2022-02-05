@@ -2,7 +2,14 @@
 
 This is an agent based simulation of virus spread across a population. The effects of different measures to stop the spread, like masks, lockdowns, and vaccines are also simulated. As an extension to the project, I ran a sentiment analysis test on tweets scraped from Twitter to gauge the sentiment of the general public towards wearing masks.
 
-## Notes-
+This project visualises the effects that various measures have on how diseases spread and gives an idea about the most effective methods of tackling the disease.
+
+## Dependencies:
+
+'animation_data.csv'
+'tweet_ranges.csv'
+
+## Notes about the dependencies:
 
 ### Simulation
 
